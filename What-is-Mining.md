@@ -110,7 +110,7 @@ Watch this video to get a visual demo of the mining process.
 The following are additional recommended, but optional, readings and viewings to learn more about mining:
 
 - [What does it mean to mine Ethereum?](https://docs.ethhub.io/using-ethereum/mining/)
-- [Top Ethereum Miners](https://etherscan.io/stat/miner?range=7&blocktype=blocks)
+- [Top Ethereum Miners](https://etherscan.io/stat/miner?range=7&blocktype=blocks) --this link is dead
 - [Etherscan Mining Calculator](https://etherscan.io/ether-mining-calculator)
 
 <SubmitQuiz />
